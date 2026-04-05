@@ -1,0 +1,23 @@
+Beijing Website Package — Image Credits
+
+All images in this package are free-use / public-license images from Wikimedia Commons.
+
+New additions:
+- images/beijing_skyline.jpg — Beijing Skyline (6230262259).jpg — Wikimedia Commons — CC BY 2.0
+- images/beijing_jingshan_park.jpg — Beijing Jingshan Park.JPG — Wikimedia Commons — Public domain
+
+Existing files used from the earlier package:
+- images/great_wall.jpg — Great Wall of China near Jinshanling
+- images/forbidden_city.jpg — The Forbidden City in Beijing, China
+- images/temple_of_heaven.jpg — Temple of Heaven / Hall of Prayer for Good Harvests
+- images/summer_palace.jpg — Summer Palace, Beijing
+- images/hutong_courtyard.jpg — Traditional courtyard in Beijing
+- images/roast_duck.jpg — Beijing roast duck
+- images/beijing_cbd.jpg — Beijing CBD skyline
+- images/view_of_beijing.jpg — View of Beijing
+- images/tanghulu.jpg — Tanghulu street snack
+- images/beijing_opera.jpg — Beijing opera performance
+- images/beijing_tofu.jpg — Beijing tofu dish
+- images/chinese_noodles.jpg — Chinese noodle bowl
+
+If you need to check the original source pages, the file names can be searched on Wikimedia Commons.
